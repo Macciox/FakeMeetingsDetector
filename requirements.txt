@@ -2,3 +2,4 @@ python-telegram-bot==21.9
 requests==2.31.0
 python-dotenv==1.0.0
 validators==0.22.0
+python-whois==0.8.0
